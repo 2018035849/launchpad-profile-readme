@@ -1,6 +1,6 @@
 # Danish Verma
 
-📍 Amritsar, Punjab |  ✉️ [vdanish211@gmail.com](mailto:vdanish211@gmail.com)  [LinkedIn](https://www.linkedin.com/in/danishverma/)
+📍 Amritsar, Punjab |  ✉️ [vdanish211@gmail.com](mailto:vdanish211@gmail.com) |  [LinkedIn](https://www.linkedin.com/in/danishverma/)
 
 ---
 
