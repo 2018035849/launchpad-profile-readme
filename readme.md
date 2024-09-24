@@ -1,6 +1,6 @@
 # Danish Verma
 
-📍 Amritsar, Punjab | 📞 9988729878 | ✉️ [vdanish211@gmail.com](mailto:vdanish211@gmail.com)  
+📍 Amritsar, Punjab |  ✉️ [vdanish211@gmail.com](mailto:vdanish211@gmail.com)  
 [LinkedIn](https://www.linkedin.com/in/danishverma/)
 
 ---
