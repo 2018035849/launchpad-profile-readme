@@ -71,5 +71,5 @@ Analyzed India’s CPI inflation trends using MoSPI data to predict inflation ra
 Here, you can showcase any projects you have on GitHub. Mention their purpose, tech stack, and link to the repository.
 
 - [CPI Inflation](https://docs.google.com/spreadsheets/d/1l2pfT-Y42X7J32lvJ7-AoOeLITdhD-78h7abJ_dFDCA/edit?gid=1034183881#gid=1034183881)
-- [B2B Sales Pipeline Analysis](https://github.com/danishverma21/B2B-Sales-Analysis-/tree/master/CRM_Sales_Opportunities_project-main)
+- [B2B Sales Pipeline Analysis](https://github.com/danishverma21/B2B-Sales-Pipeline-Analysis)
 
