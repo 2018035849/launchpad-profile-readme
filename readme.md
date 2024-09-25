@@ -71,8 +71,8 @@ Here, you can showcase any projects you have on GitHub. Mention their purpose, t
 
 - [CPI Inflation](https://docs.google.com/spreadsheets/d/1l2pfT-Y42X7J32lvJ7-AoOeLITdhD-78h7abJ_dFDCA/edit?gid=1034183881#gid=1034183881)
 - [B2B Sales Pipeline Analysis](https://github.com/danishverma21/B2B-Sales-Pipeline-Analysis)
-- **B2B Sales Pipeline Analysis |	September 2024**
-The project focuses on analyzing sales data to identify trends, optimize the sales process, and enhance decision-making for business growth.
-Utilized Python and SQL for data analysis, along with libraries such as Pandas for data manipulation and Power BI for data visualization
+
+-The project focuses on analyzing sales data to identify trends, optimize the sales process, and enhance decision-making for business growth.
+-Utilized Python and SQL for data analysis, along with libraries such as Pandas for data manipulation and Power BI for data visualization
 
 
