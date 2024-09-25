@@ -73,6 +73,6 @@ Here, you can showcase any projects you have on GitHub. Mention their purpose, t
 - [B2B Sales Pipeline Analysis](https://github.com/danishverma21/B2B-Sales-Pipeline-Analysis)
 
 -The project focuses on analyzing sales data to identify trends, optimize the sales process, and enhance decision-making for business growth.
- Utilized Python and SQL for data analysis, along with libraries such as Pandas for data manipulation and Power BI for data visualization.
+  Utilized Python and SQL for data analysis, along with libraries such as Pandas for data manipulation and Power BI for data visualization.
 
 
